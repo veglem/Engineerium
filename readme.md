@@ -1,5 +1,6 @@
-# Контейнеры
+# vector и алгоритмы
 
-* [stack](./Stack/stack.md)
-* [unordered_map/unordered_multimap](./Unordered_map/unordered_map.md)
-* [unordered_set/unordered_multiset](./Unordered_set/unordered_set.md)
+* [vector](./Vector/vector.md)
+* [алгоритмы](./Algorithms/algorithms.md)
+* [префиксные суммы](./Algorithms/prefixsum.md)
+* [сканирующая прямая](./Algorithms/scanline.md)
