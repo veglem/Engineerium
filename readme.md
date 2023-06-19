@@ -1,6 +1,6 @@
 # vector и алгоритмы
 
-* [vector](./Vector/vector.md)
-* [алгоритмы](./Algorithms/algorithms.md)
-* [префиксные суммы](./Algorithms/prefixsum.md)
-* [сканирующая прямая](./Algorithms/scanline.md)
+* [лямбда-функции](./lambda/lambda.md)
+* [function](./std_function/function.md)
+* [filesystem](./filesystem)
+* [умные указатели](./smart_pointers/pointers.md)
