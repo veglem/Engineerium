@@ -13,7 +13,6 @@ std::regex использует синтаксис регулярных выра
 
 ### Проверка соответствия строки шаблону:
 ```cpp
-Copy code
 #include <iostream>
 #include <regex>
 
@@ -32,7 +31,6 @@ std::regex pattern("Hello.*");
 ```
 ### Поиск совпадений в строке:
 ```cpp
-Copy code
 #include <iostream>
 #include <regex>
 
@@ -53,7 +51,6 @@ std::regex pattern("o");
 ```
 ### Замена совпадений в строке:
 ```cpp
-Copy code
 #include <iostream>
 #include <regex>
 
